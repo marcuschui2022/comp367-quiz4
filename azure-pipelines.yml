@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: comp367quiz4
+  name: Default
 
 variables:
   solution: '**/*.sln'
