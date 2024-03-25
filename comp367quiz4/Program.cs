@@ -4,6 +4,7 @@ namespace comp367quiz4
     {
         public static void Main(string[] args)
         {
+            // enable web app to access data stored in local database, and display all data on the web page
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
