@@ -1,0 +1,6 @@
+@comp367quiz4_HostAddress = http://localhost:5070
+
+GET {{comp367quiz4_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
